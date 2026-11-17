@@ -15,5 +15,11 @@ git config --list
 
 https://www.youtube.com/watch?v=2c7yWlpWDJM&list=PLcoYAcR89n-qbO7YAVj5S0alABLis_QVU
 
+COMO JOGAR O ARQUIVO NO GIT
+cd nome da pasta
+git add .
+git status
+git commit -m "Adiciona uma descrição para pasta"
+git push
 
 pause
